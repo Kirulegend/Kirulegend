@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-# 👋 Hi, I’m [Kiran] (@Kirulegend)
+# 👋 Hi, I’m [Name] (@[Username])
 
 ### 🚀 [Founder/Role] | [Primary Skill] | [Secondary Skill]
 > "Building the infrastructure for the next generation of [AI/Interactive] experiences."
@@ -46,20 +45,10 @@
 * **Key Features:** [Feature A] • [Feature B] • [Feature C]
 * **[🔗 Repo Link]**
 
----
-
-## 📊 Performance Metrics
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dracula)
-
----
-
 ## 🌐 Connect & Collaborate
-* **Twitter/X:** [@YourHandle]
-* **LinkedIn:** [Your Name]
-* **Website:** [Your Website]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itiskiruhere/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-is-kiru/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kcm_0611)
+[![Website](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=icloud&logoColor=white)](https://kiru.my.canva.site/itiskiruhere/)
 
-**💡 Open to:** [e.g., Collaboration on AI agents, Open Source contributions, or Technical Advisory]
-
-> *"Let’s build something extraordinary together!"*
 ![](https://komarev.com/ghpvc/?username=Kirulegend&abbreviated=true)
