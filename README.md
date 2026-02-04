@@ -31,4 +31,3 @@ Portfolio including all my Projects [![Website](https://img.shields.io/badge/Por
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-is-kiru/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/unknown_kiru)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itiskiruhere/)
-![](https://komarev.com/ghpvc/?username=Kirulegend&abbreviated=true)
